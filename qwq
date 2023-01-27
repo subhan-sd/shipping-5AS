@@ -1,0 +1,28 @@
+<div class="carousel-item">
+              <div class="row">
+          <!-- Avatar -->
+          <div class="col">
+          </div>
+          <!-- Quotes -->
+          <div class="col">
+            <div class="content mt-5 text-start">
+              <h2>Bae Suzy</h2>
+              <p style="font-weight: lighter; font-size: 20px; width: 450px;">"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque rem saepe ea deleniti repudiandae"</p>
+            </div>
+          </div>
+        </div>
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+          <!-- Avatar -->
+          <div class="col">
+          </div>
+          <!-- Quotes -->
+          <div class="col">
+            <div class="content mt-5 text-start">
+              <h2>Jihyo Twice</h2>
+              <p style="font-weight: lighter; font-size: 20px; width: 450px;">"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque rem saepe ea deleniti repudiandae"</p>
+            </div>
+          </div>
+        </div>
+            </div>
